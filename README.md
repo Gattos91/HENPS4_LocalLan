@@ -1,6 +1,6 @@
 # HEN_PS4_Red_Local
 ----------------------------------------------------------------------------------------------
-Activar HEN en tu PS4 mediante un archivo seguro en tu red Local sin exponerte a internet.  --
+Activar HEN en tu PS4 mediante un archivo seguro en tu red Local sin exponerte a internet y mantenerte en una versión estable de HEN.  --
 ----------------------------------------------------------------------------------------------
 Configurar un servidor HTTP local en Windows 11 para servir los archivos del proyecto PS4 WebKit JB a una PS4 Slim compatible con firmware 11.00 hasta 13.00, sin depender de un alojamiento web externo ni disco Blueray con Hen.
 
