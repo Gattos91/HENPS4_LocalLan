@@ -2,9 +2,9 @@
 ----------------------------------------------------------------------------------------------
 Activar HEN en tu PS4 mediante un archivo seguro en tu red Local sin exponerte a internet y mantenerte en una versión estable de HEN.  --
 ----------------------------------------------------------------------------------------------
-Configurar un servidor HTTP local en Windows 11 para servir los archivos del proyecto PS4 WebKit JB a una PS4 Slim compatible con firmware 11.00 hasta 13.00, sin depender de un alojamiento web externo ni disco Blueray con Hen.
+Configurar un servidor HTTP local en Windows 11 para servir los archivos del proyecto PS4 WebKit JB a una PS4 Slim compatible con firmware 11.00 hasta 13.00, sin depender de un alojamiento web externo ni disco Blueray con Hen. 
 
-Este proyecto nace como una alternativa a los métodos de activación por enlaces a internet compartidos popularmente de origenes desconocidos y discos físicos Blu-ray, aunque se usan los archivos oficiales del GOLDHEN v2.4.18.10, esto te permitirá activar HEN en tu consola PS4 sin salir a internet. 
+Este proyecto nace como una alternativa a los métodos de activación por enlaces a internet compartidos popularmente de origenes desconocidos y discos físicos Blu-ray, aunque se usan los archivos oficiales del GOLDHEN v2.4.18.10, esto te permitirá activar HEN en tu consola PS4 sin salir a internet / una vez activado HEN puedes apagar tu pc servidor. 
 
 Todo funciona creando tu propio servidor HEN en tu pc o laptop simplemente con crear una capeta en tu disco C:\PS4-HEN y ejecutando un comando en PowerShell como administrador en la ruta C:\PS4-HEN> python server.py
 
