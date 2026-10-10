@@ -16,7 +16,7 @@ Se creara un servidor local en C:\PS4-HEN como Python server.py en tu maquina qu
 
 Comparto un archivo.zip con el manual de instalación del Server Python, manual de activación HEN desde tu PS4 mediante el navegador, archivos necesarios incluido (ps4_webkit_jb-main.zip)
 
-Este HEN se probo con PS4 en versión 12.50 desde el navegador de la PlayStation funcionando sin problemas, en caso de fallo en la ctivacion del HEN reintentar la conexion o reiniciar la PS4.
+Este HEN se probo con PS4 en versión 12.50 desde el navegador de la PlayStation funcionando sin problemas, en caso de fallo en la activacion del HEN reintentar la conexion o reiniciar la PS4.
 
 Basado en los metodos activacion actuales.
 
